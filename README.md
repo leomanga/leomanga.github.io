@@ -3,7 +3,7 @@
 
 Ready to use Jekyll template with Minimal Mistakes theme. Instant blog without knowing git and command line. Just fork it to use for your GitHub Pages.
 
-Demo: <https://limyunkai19.github.io/minimal-mistakes-jekyll> &nbsp; | &nbsp; <https://limyunkai.com>
+Demo: <https://leomanga.github.io> &nbsp;
 
 ## Table of Content
 - [Getting Started](#getting-started)
