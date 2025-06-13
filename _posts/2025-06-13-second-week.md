@@ -6,9 +6,7 @@ tags:
     - GSoC-2025
     - SymPy
 ---
-Hello everyone,
-
-I'm in my second week of GSoC and I've almost finished writing the transfer function classes [#28115(Open)](https://github.com/sympy/sympy/pull/28115).
+Hello everyone, I'm in my second week of GSoC and I've almost finished writing the transfer function classes [#28115(Open)](https://github.com/sympy/sympy/pull/28115).
 
 I proceeded as explained in my last update.
 
