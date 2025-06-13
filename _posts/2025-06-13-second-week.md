@@ -1,5 +1,5 @@
 ---
-title: "Discrete-time transfer functions"
+title: "Discrete-Time Transfer Functions Expansion: Almost There!"
 date: 2025-06-13 19:05:00 +0200
 categories: update
 tags:
