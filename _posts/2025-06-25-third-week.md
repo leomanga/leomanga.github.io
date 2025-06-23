@@ -1,6 +1,6 @@
 ---
 title: "Third Week Update"
-date: 2025-06-13 12:30:00 +0200
+date: 2025-06-23 12:30:00 +0200
 categories: update
 tags:
     - GSoC-2025
