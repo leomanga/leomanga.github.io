@@ -10,7 +10,7 @@
 
 // font size
 html {
-  font-size: 14px; // change from 16
+  font-size: 10px; // change from 16
 
   @include breakpoint($medium) {
     font-size: 14px; // change from 18
@@ -28,11 +28,11 @@ html {
 // line height
 .page__content {
     @include breakpoint($large) {
-      line-height: 1.66em;
+      line-height: 1.86em;
     }
 
     @include breakpoint($x-large) {
-      line-height: 1.66em;
+      line-height: 1.86em;
     }
 }
 
